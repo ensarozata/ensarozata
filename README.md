@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started. -->
 
-- 🌱🌱 I'm currently learning Java Spring framework and React https://istanbulegitimakademi.com
+- 🌱🌱 I'm currently learning Java Spring framework and React JS https://istanbulegitimakademi.com
 - 📫You can reach me at this ensarozata@hotmail.com
 
 
