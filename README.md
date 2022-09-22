@@ -6,7 +6,7 @@
 Here are some ideas to get you started. -->
 
 - 🌱🌱 I'm currently learning Java Spring framework and React https://istanbulegitimakademi.com
-📫You can reach me at this ensarozata@hotmail.com
+- 📫You can reach me at this ensarozata@hotmail.com
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=ensarozata&show_icons=true&theme=gradient) 
